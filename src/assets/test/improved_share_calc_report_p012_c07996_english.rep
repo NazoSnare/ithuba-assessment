@@ -1,0 +1,121 @@
+share_calc       1.00                     I t h u b a   H o l d i n g s   ( R F )   P t y   L t d                          Page: 1
+CDC:07996 / Tue Dec-21-2021                POWERBALL IMPROVED SHARE CALCULATION REPORT                    Tue Dec-21-2021 21:04:08
+----------------------------------------------------------------------------------------------------------------------------------
+  Calculated share values for draw          1260
+
+  Winning set  Regular           Guaranteed Jackpot =  NO         Rollover number     10
+  Div     Share value   Nbr of shares    Payout amount    Next draw rollover
+    1           R0.00               0            R0.00        R44,516,155.75
+    2     R191,226.50               2      R382,453.00                R-0.06
+    3      R14,968.30              16      R239,492.80                 R0.70
+    4       R1,331.30             305      R406,046.50                R-6.04
+    5         R516.40             889      R459,079.60                R38.08
+    6          R23.90           16001      R382,423.90                R92.03
+    7          R23.40           12286      R287,492.40              R-510.12
+    8          R15.00           68722    R1,030,830.00                 R0.00
+    9          R10.00          121233    R1,212,330.00                 R0.00
+  Total                        219454    R4,400,148.20
+
+
+   Set  Div                            Adjustment
+     1    1                                      0.00
+     1    2                                      0.00
+     1    3                                      0.00
+     1    4                                      0.00
+     1    5                                      0.00
+     1    6                                      0.00
+     1    7                                      0.00
+     1    8                                      0.00
+     1    9                                      0.00
+   Total Added Adjustments                                                    R0.00
+   Moved to Breakage                                                       R-385.41
+
+   Total sales ( Powerball     )                                        20025410.00
+   Prize Pool based upon these sales                                     9612196.80
+   Total Payout Amount excluding Fixed Prizes (Total Pari-mutuel)        7369036.80
+   Division 1 carried into this draw                                    39304036.02
+   Division 1 contribution for this draw                                 5212119.73
+   Total Prize Pool                                                     48916303.95
+   Guaranteed Jackpot                                                          0.00
+   Revised Prize Pool                                                   48916303.95
+
+   Division pools:
+   Set  Div    %      Before redistribution   After redistribution
+     1    1   70.73        44516155.75                   0.00
+     1    2    5.19          382452.94              382453.00
+     1    3    3.25          239493.50              239492.80
+     1    4    5.51          406040.46              406046.50
+     1    5    6.23          459117.68              459079.60
+     1    6    5.19          382515.93              382423.90
+     1    7    3.90          286982.28              287492.40
+     1    8    0.00         1030830.00             1030830.00
+     1    9    0.00         1212330.00             1212330.00
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+zaieste1                            Copyright (c) 2021 GTECH Corporation. All rights reserved.
+
+share_calc       1.00                     I t h u b a   H o l d i n g s   ( R F )   P t y   L t d                          Page: 2
+CDC:07996 / Tue Dec-21-2021                POWERBALL IMPROVED SHARE CALCULATION REPORT                    Tue Dec-21-2021 21:04:08
+----------------------------------------------------------------------------------------------------------------------------------
+  Winning set  Regular Plus      Guaranteed Jackpot =  NO         Rollover number     00
+  Div     Share value   Nbr of shares    Payout amount    Next draw rollover
+    1  R10,250,209.30               1   R10,250,209.30                 R0.02
+    2     R165,780.90               1      R165,780.90                R-0.05
+    3       R4,943.50              21      R103,813.50                R-0.63
+    4         R482.20             365      R176,003.00               R-10.35
+    5         R223.80             889      R198,958.20                R18.38
+    6          R10.50           15842      R166,341.00               R-18.13
+    7           R9.70           12789      R124,053.30                R72.60
+    8           R7.50           66903      R501,772.50                 R0.00
+    9           R5.00          104351      R521,755.00                 R0.00
+  Total                        201162   R12,208,686.70
+
+
+   Set  Div                            Adjustment
+     2    1                                      0.00
+     2    2                                      0.00
+     2    3                                      0.00
+     2    4                                      0.00
+     2    5                                      0.00
+     2    6                                      0.00
+     2    7                                      0.00
+     2    8                                      0.00
+     2    9                                      0.00
+   Total Added Adjustments                                                    R0.00
+   Moved to Breakage                                                         R61.84
+
+   Total sales ( Powerball Plus)                                         8787007.50
+   Prize Pool based upon these sales                                     4217763.60
+   Total Payout Amount excluding Fixed Prizes (Total Pari-mutuel)        3194236.10
+   Division 1 carried into this draw                                     7990926.13
+   Division 1 contribution for this draw                                 2259283.19
+   Total Prize Pool                                                     12208686.70
+   Guaranteed Jackpot                                                          0.00
+   Revised Prize Pool                                                   12208686.70
+
+   Division pools:
+   Set  Div    %      Before redistribution   After redistribution
+     2    1   70.73        10250209.32            10250209.30
+     2    2    5.19          165780.85              165780.90
+     2    3    3.25          103812.87              103813.50
+     2    4    5.51          175992.65              176003.00
+     2    5    6.23          198976.58              198958.20
+     2    6    5.19          166322.87              166341.00
+     2    7    3.90          124125.90              124053.30
+     2    8    0.00          501772.50              501772.50
+     2    9    0.00          521755.00              521755.00
+
+ End of Report
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+zaieste1                            Copyright (c) 2021 GTECH Corporation. All rights reserved.
