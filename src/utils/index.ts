@@ -7,7 +7,7 @@ import events from 'node:events';
 import {readdir} from 'node:fs/promises';
 
 export const readFileDir = async (folderPath: string) => {
-    console.log(folderPath);
+    // console.log(folderPath);
     const notifications: string[] = [];
 
     try {
@@ -126,7 +126,7 @@ export const getPopulatedFiles = async (files: string[], folderPath: string) => 
              
              result.shareCalculations = await groupByShareCalcs(result.lines, processed?.indices);
              result.populatedShareCalculations = await extractShareCalculationInformation(result.shareCalculations);
-            console.log(`File Tester: ${file}`, result.populatedShareCalculations);
+            // console.log(`File Tester: ${file}`, result.populatedShareCalculations);
                
             return result;
           
@@ -201,15 +201,6 @@ export const processLineByLine = async (filePath:string): Promise<FileLineByLine
                 }
             });
 
-            console.log('TESTER OBJ', {
-                totalSalesLine,
-                winningSetLine,
-                drawInfoLine,
-                divisionsIdx,
-                shareCalc,
-                firstTotalIdx,
-
-            });
 
             return tester;
         }));
